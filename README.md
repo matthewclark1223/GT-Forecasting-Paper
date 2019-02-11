@@ -1,2 +1,2 @@
-# Joshua-Tree-Death-Valley-Forecasting
-Code and data for forecasting visitor use in US national parls using Google Trends Data
+# Code and data for the paper: Bringing forecasting into the future: Using Google to predict visitation in U.S. National Parks
+
